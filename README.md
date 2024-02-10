@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I'm NeoDev 🤙</h1>
 </div>
-<p>I am a 19-year-old software student specializing in full-stack, my favorite tools to work with are Java, JS, C#</p>
+<p align="center">I am a 19-year-old software student specializing in full-stack, my favorite tools to work with are Java, JS, C#</p>
 
 ## About Me
 - Prefer to work with: C#, JS 
