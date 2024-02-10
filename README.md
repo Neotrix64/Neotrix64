@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">Hi! I'm NeoDev 🤙</h1>
 </div>
-## About me
-- Working with 
-- 🖌️ Been enhacing my css abilities
+<img src="https://64.media.tumblr.com/3b9e54179a65f9a5eb4de31b4e0c098e/e411e5a8fc313f4b-d2/s640x960/46a2768503110ed640f4249eea4e65a4b7670c57.pnj">
+<h2>About me</h2>
+- Prefer to work with: C#, JS 
+- 🖌️ Been enhacing my front-end abilities
 
 ## Languages
 <!--
