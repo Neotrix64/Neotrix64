@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hi! I'm NeoDev 🤙</h1>
 </div>
-<img src="https://64.media.tumblr.com/3b9e54179a65f9a5eb4de31b4e0c098e/e411e5a8fc313f4b-d2/s640x960/46a2768503110ed640f4249eea4e65a4b7670c57.pnj">
-<h2>About me</h2>
+<p>Soy un estudiante de software de 19 años especializandose en full-stack, mis herramientas favoritas para trabajar son Java, JS, C#</p>
+
+## About Me
 - Prefer to work with: C#, JS 
 - 🖌️ Been enhacing my front-end abilities
 
