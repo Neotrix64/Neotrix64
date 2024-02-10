@@ -1,5 +1,11 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi! I'm NeoDev 🤙</h1>
+</div>
+## About me
+- Working with 
+- 🖌️ Been enhacing my css abilities
 
+## Languages
 <!--
 **Neotrix64/Neotrix64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
