@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  I am a 19-year-old software student specializing in full-stack, my favorite tools to work with are Java, JS, C#
+  I am a 20-year-old software student specializing in full-stack, my favorite tools to work with are Java, JS, C#
   <br>
   But also right now I am working on my own projects every day expanding my knowledge and now having the goal of learning c++
 </p>
